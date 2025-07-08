@@ -1,0 +1,43 @@
+Text,Video_path,Emotions
+I'm so excited about this amazing opportunity! This is the best day ever!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\happy.mp4,happy
+Just got promoted at work! Life is absolutely wonderful right now!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\happy2.mp4,happy
+Had the most incredible vacation with my family. Pure joy and happiness!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\happy3.mp4,happy
+Feeling fantastic today! Everything is going perfectly!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\happy4.mp4,happy
+I'm overjoyed with this wonderful news! Best feeling ever!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\happy5.mp4,happy
+Such a beautiful day! I'm filled with happiness and gratitude!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\happy6.mp4,happy
+Amazing results! I'm thrilled beyond words!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\happy7.mp4,happy
+I feel so lonely and empty inside. Nothing seems to matter anymore.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\sad.mp4,sad
+Lost my best friend today. The sadness is overwhelming and unbearable.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\sad2.mp4,sad
+Everything is falling apart. I can't stop crying and feeling hopeless.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\sad3.mp4,sad
+Heartbroken and devastated. Life feels meaningless right now.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\sad4.mp4,sad
+Feeling so down and depressed. Nothing brings me joy anymore.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\sad5.mp4,sad
+The grief is consuming me. I feel so lost and alone.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\sad6.mp4,sad
+Tears won't stop flowing. This pain is unbearable.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\sad7.mp4,sad
+I'm absolutely furious! This incompetent service is completely unacceptable!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\angry.mp4,angry
+How dare they treat me like this! I'm fed up with this ridiculous situation!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\angry2.mp4,angry
+This makes my blood boil! I'm sick and tired of being ignored and disrespected!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\angry3.mp4,angry
+I'm outraged by this injustice! This is completely infuriating!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\angry4.mp4,angry
+Absolutely livid! This is the most frustrating experience ever!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\angry5.mp4,angry
+I'm seething with anger! This is beyond acceptable!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\angry6.mp4,angry
+Rage is building up inside me! This is completely outrageous!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\angry7.mp4,angry
+I'm terrified about the upcoming surgery. What if something goes wrong?,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\fear.mp4,fear
+Walking alone at night makes me anxious. I'm scared something bad will happen.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\fear2.mp4,fear
+The thought of public speaking fills me with dread and panic.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\fear3.mp4,fear
+I'm petrified of what might happen next. This uncertainty is killing me.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\fear4.mp4,fear
+Anxiety is overwhelming me. I'm scared of the unknown.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\fear5.mp4,fear
+Trembling with fear about the future. Everything seems so uncertain.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\fear6.mp4,fear
+I'm frightened by these strange noises. Something feels very wrong.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\fear7.mp4,fear
+That food was absolutely revolting. I almost threw up from the smell.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\disgust.mp4,disgust
+This place is filthy and repulsive. I can't stand being here anymore.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\disgust2.mp4,disgust
+The way they handled this situation is disgusting and makes me sick.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\disgust3.mp4,disgust
+This is absolutely nauseating. I feel physically ill from this.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\disgust4.mp4,disgust
+Gross! This is the most disgusting thing I've ever seen!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\disgust5.mp4,disgust
+I'm repulsed by this behavior. It's completely sickening.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\disgust6.mp4,disgust
+This smell is making me gag. Absolutely revolting!,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\disgust7.mp4,disgust
+The weather today is partly cloudy with a chance of rain.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\neutral.mp4,neutral
+I went to the store and bought some groceries for dinner.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\neutral2.mp4,neutral
+The meeting is scheduled for 3 PM in the conference room.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\neutral3.mp4,neutral
+Today is Monday and the temperature is 72 degrees.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\neutral4.mp4,neutral
+I need to finish this report by the end of the week.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\neutral5.mp4,neutral
+The train arrives at platform 3 at 2:30 PM.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\neutral6.mp4,neutral
+Please remember to bring your ID card to the office.,C:\Users\Kalash Srivastava\Demo-Projects\Multi-Modal Sentiment Analysis'\Face Emotions\neutral7.mp4,neutral
